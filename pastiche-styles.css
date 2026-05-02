@@ -54,8 +54,7 @@ nav.scrolled {
   box-shadow: 0 2px 30px rgba(0,0,0,0.3);
 }
 .nav-logo {
-  height: 44px; width: auto;
-  filter: brightness(0) invert(1);
+  height: 50px; width: auto;
 }
 .nav-links {
   display: flex; gap: 2.5rem; list-style: none;
@@ -702,7 +701,7 @@ footer {
   margin-bottom: 0;
 }
 .footer-brand img {
-  height: 50px; filter: brightness(0) invert(1);
+  height: 50px;
   margin-bottom: 1rem; display: block;
 }
 .footer-brand p {
